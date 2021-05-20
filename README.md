@@ -32,6 +32,7 @@ TLDR; watch the video ⬇️
 -  [CLI - Command Line Interface](#cli-command-line-interface)
 -  [Wiki](#wiki)
 -  [Contributing](#contributing)
+-  test
 -  [News](#news)
 
 
